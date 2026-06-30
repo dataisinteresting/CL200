@@ -1,6 +1,6 @@
 CLEANING CARBURETOR
 
-1. Fill ultrasonic cleaner with Simple Green Aircraft and Precision Cleaner (1 part cleaner to 3 parts water)
+1. Fill ultrasonic cleaner with Simple Green Aircraft and Precision Cleaner (1 part cleaner to 3 parts DISTILLED water). Alternatively, use a different suitable degreaser like Dawn soap. Distilled water is important to use throughout this process in order to avoid the precipitation of mineral salts present in tap water onto the carburetor. 
 
 2. Put the large carburetor parts into the ultrasonic cleaner.
 
@@ -16,7 +16,7 @@ CLEANING CARBURETOR
 
 8. Run the carburetor through the ultrasonic cleaner for three 20 minute cycles.
 
-9. Rinse the carburetor in water.
+9. Rinse the carburetor in DISTILLED water.
 
 10. Dry the carburetor completely.
 

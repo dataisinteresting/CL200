@@ -1,0 +1,71 @@
+========
+This is how I installed the combination rectifier-regulator offered by Common Motor for my CL200, which resolved the inability of my CL200 to recharge the battery.
+
+Product page: https://www.common-motor.com/honda-cb-cl-rectifier-regulator
+========
+
+1. Remove seat.
+
+2. Remove battery.
+
+3. Remove exhaust. 
+
+4. Remove side covers.
+
+5. Remove air cleaners (should not need to remove carburetors).
+
+6. Drain tank.
+
+7. Remove tank.
+
+8. Identify regulator. On the CL200, the regulator should be mounted under the battery box. 
+
+9. For the three wires which are connected to the regulator from a wiring harness: pull the three wires from the harness. (a yellow wire, black wire, and green wire).
+
+10. Identify the rectifier. On the CL200, it should be mounted inside the frame under the rear gas tank mount.
+
+11. Disconnect the rectifier's electrical connector (squeeze and pull).
+
+12. Remove the rectifier.
+
+13. Cut the wiring from the base of the rectifier.
+
+14. Strip 1/8-inch of insulation from each wire on the cut end. (2:00 in relevant Common-Motor video: https://www.youtube.com/watch?v=Y0axV6BiWG0&t=1s).
+
+15. Crimp the included connectors onto the wires using the recommended crimping tool. Watch the 'How to install motorcycle wiring harness electrical connectors' video to ensure you do this correctly. https://www.youtube.com/watch?v=XJU-LaRYIUI
+
+16. Once the connectors are crimped on, consider applying some new heat shrink tubing.
+
+17. Slide the connectors into the correct spot of the (new?) harness connector. Get it right the first time; difficult to remove them. 
+
+18. Use a round file to enlarge the mounting holes of the new regulator+rectifier.
+
+19. Before mounting the combo regulator+rectifier, remove the black wire from the harness sleeve. 
+
+20. Mount the combo regulator+rectifier to the same location as the original regulator (on the frame below the battery box).
+
+21. Connect the new combo regulator+rectifier to the harness extension and connect it to the old rectifier plug, routing the wiring through the hole in the center of the frame. 
+
+22. Connect the lone black wire to the old regulator's connector for the old black wire. 
+
+23. Cut the green wire from the original regulator.
+
+24. Crimp a standard ring terminal onto the green wire. (4:15 in relevant video: https://www.youtube.com/watch?v=Y0axV6BiWG0&t=1s).
+
+26. Plug the green wire into the green female connector to which the old regulator used to be connected. 
+
+27. Attach the ring terminal to the closest bolt on the frame, which is typically one of the the battery box bolts.
+
+28. Save any leftover wiring+bullet connectors for use in later repairs.
+
+29. Reinstall exhaust with new exhaust gaskets.
+
+30. Reinstall tank.
+
+31. Reinstall air cleaners.
+
+32. reinstall side covers.
+
+33. Reinstall battery.
+
+33. Reinstall seat.

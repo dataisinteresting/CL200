@@ -1,0 +1,94 @@
+DISASSEMBLING CARBURETORS
+
+1. Remove exhaust.
+
+2. Remove side covers.
+
+3. Remove air filters. 
+
+==================================================================================================================================================
+Directions that follow apply for either carburetor individually, but note that you MUST KEEP TRACK OF THE LEFT/RIGHT CARBURETOR PARTS SEPARATELY.
+SEVERAL PARTS ARE NOT SYMMETRICAL.
+==================================================================================================================================================
+4. Remove the two screws connecting the carburetor's intake manifold to the engine. These may be JIS screws.
+
+==========================
+REMOVAL OF SLIDE ASSEMBLY
+==========================
+5. Remove the throttle cable from the carburetor by turning the flange counterclockwise and pulling the whole slide assembly from the carburetor. 
+
+6. Disassemble the slide assembly by pulling the spring back, pulling the cable out through the slot, removing the adjuster from the top cap, and removing the cap gasket. 
+
+7. Remove the needle retainer by pushing the slide needle. [~4:00 in the relevant Common-Motor video].
+
+8. Remove the needle. 
+
+===============
+CHOKE LINKAGE
+===============
+
+9. Remove the cotter pin in the choke linkage. Often these cotter pins are destroyed during removal but these can easily be replaced. Try pushing on one end with a screwdriver and using pliers to pull it out from the other side. 
+
+10. Remove washer.
+
+11. With the cotter pin and washer removed, pull the linkage apart.
+
+12. Remove the fuel/drainage lines. 
+
+13. Remove the intake manifold by removing two screws. These may be JIS screws.
+
+14. Remove the O-ring present on the just-revealed opening in the carburetor that faces the intake manifold. 
+
+15. Remove the idle speed screw. It should have a spring on it; ensure you retrieve the spring.
+
+16. Remove the idle mixture/air bleed screw. Like the idle speed screw, it should also have a spring on it. 
+
+17. Remove the drain plug screw. 
+
+18. Avoid disassembling the part of the choke linkage that attaches to the carburetor. 
+
+===============
+FLOAT BOWL
+===============
+
+19. Pop the wire clip off of the carburetor.
+
+20. Remove the float bowl of the carburetor, revealing the float.
+
+21. Remove the idle jet ('pilot jet') using a flathead screwdriver.
+
+22. Remove the main jet by placing a 7 mm wrench on the hex nut and using a flat head screwdriver to remove the jet from the emulsifier tube.
+
+23. Remove the emulsifier tube. 
+
+24. Remove the float pin by tapping gently on the side of the pin with a punch, and then pulling it with pliers once it begins to slide freely.
+
+25. Remove the float.
+
+26. Gently remove the float needle with pliers.
+
+27. Remove the needle seat with a socket. (10 mm?)
+
+28. Remove the float bowl gasket.
+
+29. Remove the exhaust nozzle by tapping it gently with a small punch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

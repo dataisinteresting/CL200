@@ -1,0 +1,64 @@
+CARBURETOR ASSEMBLY 
+[Using Common-Motor Rebuild Kit]
+
+1. Install discharge nozzle. The blunt side will face the emulsifier tube, and the tapered end will protrude into the venturi. Oftentimes there will be a sharp edge; you can very gently use fine sandpaper on it before installing to ensure no burrs. Can use a punch to very gently drive the discharge nozzle into the venturi. The discharge nozzle should either be flush with the surface of the venturi or slightly protrude.
+
+2. Install the emulsifier tube. It should be snug- not overly tight- and there will be some threads exposed.  
+
+3. Install the pilot jet (i.e. idle jet). 
+
+4. Install the main jet. Check the number on your old main jet and use a main jet of the same size.
+
+5. Install the float needle seat using an 8 mm socket. 
+
+6. Install the float needle. 
+
+7. Install the float.
+
+8. Check float height; ensure it is 21 mm. Adjust the float if necessary.
+
+9. Check that the overflow tube is clear.
+
+10. Install the float gasket.
+
+11. Secure the float bowl clip.
+
+12. Install the drain plug screw. 
+
+13. Install the idle air mixture screw. Go one full counterclockwise turn out of the fully seated position.
+
+14. Install the slide stop/idle speed control screw. There is a ridge on the housing for the screw which serves as a reference point. There is a 'T' mark on the screw. Initially you should install the screw such that the horizontal bar of the 'T' is flush with the surface of the screw's housing while the vertical bar of the 'T' is in alignment with the ridge on the housing.
+
+15. Install the o-ring onto the carburetor outlet to the intake manifold. 
+
+16. Install the intake manifold onto the carburetor.
+
+17. Install the manifold+carburetor ont the engine, ensuring you install the necessary o-ring.
+
+18. Install the choke linkage. Install the link bar, then the washer, and then the cotter pin. Can use 'safety wire' if your old cotter pin was destroyed.
+
+====ASSEMBLING THE SLIDE ASSEMBLY====
+# Recall that the slides themselves are in fact specific to each carburetor.
+
+19. Put the clip for the needle on its middlemost notch of the needle as a starting point. 
+
+20. Install the needle into the slide.
+
+21. Install the wishbone-shaped clip into the slide.
+
+22. Install the top cap and the adjuster. Thread the adjuster in all the way.  
+
+23. Install the top cap gasket.
+
+24. Put the throttle cable through the cap+adjuster, passing it through the spring, and then insert it through its slot in thee slide. 
+
+25. Install the slide assembly into the carburetor. 
+
+
+
+
+
+
+
+
+

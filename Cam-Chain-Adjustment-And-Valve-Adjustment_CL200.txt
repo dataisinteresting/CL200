@@ -1,0 +1,50 @@
+===========CAM CHAIN ADJUSTMENT AND VALVE ADJUSTMENT===========
+Note: You should set ignition timing after doing this.
+===============================================================
+
+Equipment:
+1. Adjustable wrench
+2. Valve adjustment wrench
+3. 0.076 mm feeler gauge
+4. 10 mm wrench
+5. 8 mm wrench
+6. spark plug socket
+7. 19 mm 6 point socket
+8. Socket wrench
+9. JIS screwdriver
+
+
+CAM CHAIN ADJUSTMENT
+1. Remove gas tank
+2. Remove valve covers using the 19 mm 6-point socket
+3. Remove the spark plugs using the spark plug socket.
+4. Remove shift lever.
+5. Remove stator cover.
+6. Note the small piece of metal constituting the rotor index mark.
+7. Note the rotor direction arrow. When you need to turn the rotor, you should only ever turn it in the same direction as this arrow.
+8. Note the F mark and the T mark. The F  mark is the ignition fire mark and the T mark indicates 'top dead center.
+9. Turn the rotor such that the T mark is aligned with the center of the coil on the left.
+10. Make an indicator mark for the cam chain adjustment 90 degrees clockwise from the T mark. You can use an adjustable wrench to move the rotor. I'm probably just gonna use a sharpie here.
+11. Turn the rotor so that the new mark is just below the rotor index mark.
+12. Note the cam chain adjuster bolt.
+13. Loosen the jam nut of the chain adjuster bolt with a 10 mm socket.
+14. Loosen the chain adjuster bolt with an 8 mm socket. A spring should then be released, which will remove slack present in the cam chain. You should then tighten the bolt and then the jam nut (just snug).
+
+VALVE ADJUSTMENT (One side at a time. We we will start with the left, here; you will also have to do this for both the intake and exhaust sides.) [~8:20 in the relevant Common Motor video]
+
+We need to turn the rotor to a specific position to do this. We're going to set it so that the cylinder we are operating on is on its compression stroke.
+1. Hold a finger over the spark plug hole.
+2. Begin turning the rotor counterclockwise. You're on the compression stroke when you feel pressure on your finger....rotate such that the T mark is  under the index rotor screw within the compression stroke.
+
+The valve clearance on the CL200 is 0.05 mm/0.002 inches, but we will use a 0.076 mm feeler gauge as we're going to use the 'overshoot' method of setting valve clearance.
+
+3. Use an 8 mm socket to loosen the hexagonal valve nut.
+4. Slightly loosen the square valve adjuster nut.
+5. Insert the feeler gauge between the tip of the rocker arm and the top of the valve.
+6. Tighten the square adjuster until it just -starts- to press on the feeler gauge. Then remove the feeler gauge; the gauge should still be able to slide out. 
+7. Now tighten the hexagonal nut against the rocker arm while keeping the square adjuster FIXED; again, HOLD THE SQUARE ONE IN PLACE. If you can't pull the feeler gauge out, it's too tight, and if it's really floppy going in it's too loose. The whole thing can actually be wiggled slightly back at forth once you're done; that's normal.
+8. After doing this for both the intake and exhaust sides for the left cylinder, rotate the rotor 360 degrees, line up the T mark with the rotor index mark, and then you perform the valve adjustment for the right side.
+9. Tighten the valve covers slightly tighter than snug.
+
+
+
